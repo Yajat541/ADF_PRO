@@ -1,0 +1,9 @@
+{
+	"name": "DFPROyajat",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e37fa60f-c103-4d88-b60f-f495c9dd2239",
+		"tenantId": "8220d0af-a4ed-4077-a615-e1653fc54285"
+	}
+}
